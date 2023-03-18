@@ -1,0 +1,34 @@
+{
+  "name": "sdp-parsing",
+  "version": "1.0.0",
+  "description": "A simple node.js module that parses SDP (Session Description Protocol) strings",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayamaTakeshi/sdp-parsing.git"
+  },
+  "keywords": [
+    "sdp",
+    "session",
+    "description",
+    "protocol",
+    "parsing",
+    "parser",
+    "parse"
+  ],
+  "author": "MayamaTakeshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MayamaTakeshi/sdp-parsing/issues"
+  },
+  "homepage": "https://github.com/MayamaTakeshi/sdp-parsing#readme",
+  "devDependencies": {
+    "ava": "^5.1.1"
+  }
+}
