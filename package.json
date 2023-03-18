@@ -1,6 +1,6 @@
 {
   "name": "sdp-parsing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple node.js module that parses SDP (Session Description Protocol) strings",
   "main": "index.js",
   "directories": {

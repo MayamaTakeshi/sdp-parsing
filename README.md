@@ -7,7 +7,7 @@ This doesn't do full parse of elements.
 Mostly, we are interested in converting the lines to media objects that then can be more easily inspected/matched.
 
 Ex:
-
+```
 const parse = require('sdp-parsing')
 
 var s = `v=0
